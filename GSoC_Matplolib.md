@@ -24,6 +24,10 @@ My plan goes as follows:
 - Maps as non-periodical complex functions
 - Templates
 
+
+I will be able to finish this project, because I have experience in complex analysis and I will dedicate this summer to implementing the requested features.
+
+
 ## Contact Information
 
 - Email: adrian.ariton0@gmail.com
