@@ -24,10 +24,7 @@ My plan goes as follows:
 
 ## Contact Information
 
-Email: adrian.ariton0@gmail.com
-
-Phone: +40742854676
-
-GitHub: [https://github.com/adrianariton]
-
-[1] LinkedIn: [https://www.linkedin.com/in/adrian-ariton-386b33257]
+- Email: adrian.ariton0@gmail.com
+- Phone: +40742854676
+- GitHub: [https://github.com/adrianariton]
+- [1] LinkedIn: [https://www.linkedin.com/in/adrian-ariton-386b33257]
