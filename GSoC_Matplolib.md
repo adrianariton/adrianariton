@@ -16,13 +16,13 @@ QAMG : a collaborative project with 3 other colleagues that implements basic Qua
 ## Project Plan
 
 My plan goes as follows:
-Implement Circular color maps [phase/amplitude], both discrete and continuous
-Square Color maps [real/imaginary part]
-Diverging and Sequential Color Legends and Maps (parametrised)
-Block Sphere Color Maps - could use in quantum vector plotting
-Surface Lines option for continuous colormap plots
+- Implement Circular color maps [phase/amplitude], both discrete and continuous
+- Square Color maps [real/imaginary part]
+- Diverging and Sequential Color Legends and Maps (parametrised)
+- Block Sphere Color Maps - could use in quantum vector plotting
+- Surface Lines option for continuous colormap plots
 
-Contact Information
+## Contact Information
 
 Email: adrian.ariton0@gmail.com
 Phone: +40742854676
