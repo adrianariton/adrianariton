@@ -21,6 +21,8 @@ My plan goes as follows:
 - Diverging and Sequential Color Legends and Maps (parametrised)
 - Block Sphere Color Maps - could use in quantum vector plotting
 - Surface Lines option for continuous colormap plots
+- Maps as non-periodical complex functions
+- Templates
 
 ## Contact Information
 
