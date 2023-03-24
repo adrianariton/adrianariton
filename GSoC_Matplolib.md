@@ -1,4 +1,6 @@
-My name is Adrian Ariton, I am a first year student at Politehnica University of Bucharest and I am interested in the following Matplotlib project: Bivariate Color Maps.
+# GSoC 2023 Matplotlib Bivariate ColorMap Proposal
+
+My name is **Adrian Ariton**, I am a first year student at **Politehnica University of Bucharest** and I am interested in the following Matplotlib project: Bivariate Color Maps.
 
 ## About myself
 
