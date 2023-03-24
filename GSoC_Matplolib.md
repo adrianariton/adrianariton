@@ -23,6 +23,7 @@ My plan goes as follows:
 - Surface Lines option for continuous colormap plots
 - Maps as non-periodical complex functions
 - Templates
+- Maps with non-euclidean norms
 
 
 I will be able to finish this project, because I have experience in complex analysis and I will dedicate this summer to implementing the requested features.
